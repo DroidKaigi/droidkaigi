@@ -15,7 +15,7 @@ droidkaigi
 ### Minute
 
 - [20141228](https://docs.google.com/document/d/1tFTZc0O6Fpw5RqPGz9TBjyHq8cpIKHHMWo20oQYPpsA/edit)
-  - [mhidakaさんのやり取り](https://docs.google.com/document/d/1MVHJsQxCf0KOD9I1Z38QUfmbH1x0MYYzm7oyIszKums/edit)
+  - [Droidcon代表者Borisとmhidakaさんのやり取り](https://docs.google.com/document/d/1MVHJsQxCf0KOD9I1Z38QUfmbH1x0MYYzm7oyIszKums/edit) mhidakaの個人情報が含まれます。内容の取扱は注意してください。
 
 ### Communication
 
