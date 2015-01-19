@@ -22,6 +22,7 @@ droidkaigi
 - 定常のコミュニケーションはSlackで行っています。
   - 参加を希望される方は[@hkurokawa](https://github.com/hkurokawa)さんまで連絡してください。
 - 課題管理は本リポジトリの[issue](https://github.com/hotchemi/droidkaigi/issues)で行っています。
+  - リポジトリへの参加は[@hotchemi](https://github.com/hotchemi)までお願い致します。
 
 ### Other
 
