@@ -1,21 +1,18 @@
 droidkaigi
 ==========
 
-本リポジトリは、DroidKaigi(仮)に関する有志が集まったリポジトリです。
+本リポジトリは、DroidKaigiに関する有志が集まったリポジトリです。
 
 ### What is DroidKaigi
+DroidKaigiはAndroidの開発者カンファレンスです。以下の2つを目的にしています。
 
-- 当初、Droidcon Japanを実現する為の前哨戦的位置づけのカンファレンス。
+- エンジニア視点でAndroid技術情報を共有する
+- エンジニア同士のコミュニケーションの場
 
 ##### 決定事項
 
 - 日時: 4/25 10:00-18:00程度
 - 場所: 株式会社サイバーエージェント様
-
-### Minute
-
-- [20141228](https://docs.google.com/document/d/1tFTZc0O6Fpw5RqPGz9TBjyHq8cpIKHHMWo20oQYPpsA/edit)
-  - [Droidcon代表者Borisとmhidakaさんのやり取り](https://docs.google.com/document/d/1MVHJsQxCf0KOD9I1Z38QUfmbH1x0MYYzm7oyIszKums/edit) mhidakaの個人情報が含まれます。内容の取扱は注意してください。
 
 ### Communication
 
@@ -25,5 +22,4 @@ droidkaigi
   - リポジトリへの参加は[@hotchemi](https://github.com/hotchemi)までお願い致します。
 
 ### Other
-
-その他何かありましたら@hotchemiまでお願い致します。
+DroidKaigiへのお問い合わせ、運営について何かありましたら@mhidakaまでお願い致します（窓口できあがるまでの暫定）
