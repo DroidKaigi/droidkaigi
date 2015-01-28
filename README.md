@@ -4,15 +4,15 @@ droidkaigi
 本リポジトリは、DroidKaigiに関する有志が集まったリポジトリです。
 
 ### What is DroidKaigi
+
 DroidKaigiはAndroidの開発者カンファレンスです。以下の2つを目的にしています。
 
 - エンジニア視点でAndroid技術情報を共有する
 - エンジニア同士のコミュニケーションの場
 
-##### 決定事項
+##### Doc
 
-- 日時: 4/25 10:00-18:00程度
-- 場所: 株式会社サイバーエージェント様
+- 各種資料は[Wiki](https://github.com/DroidKaigi/droidkaigi/wiki)にまとめています。
 
 ### Communication
 
@@ -22,4 +22,4 @@ DroidKaigiはAndroidの開発者カンファレンスです。以下の2つを�
   - リポジトリへの参加は[@hotchemi](https://github.com/hotchemi)までお願い致します。
 
 ### Other
-DroidKaigiへのお問い合わせ、運営について何かありましたら@mhidakaまでお願い致します（窓口できあがるまでの暫定）
+DroidKaigiへのお問い合わせ、運営について何かありましたら[@mhidaka](https://github.com/mhidaka)までお願い致します（窓口できあがるまでの暫定）
