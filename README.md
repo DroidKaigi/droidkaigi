@@ -10,7 +10,7 @@ DroidKaigiはAndroidの開発者カンファレンスです。以下の2つを�
 - エンジニア視点でAndroid技術情報を共有する
 - エンジニア同士のコミュニケーションの場
 
-##### Doc
+### Doc
 
 - 各種資料は[Wiki](https://github.com/DroidKaigi/droidkaigi/wiki)にまとめています。
 
