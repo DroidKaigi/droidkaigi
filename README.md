@@ -1,4 +1,4 @@
-droidkaigi
+droidkaigi [![Stories in Ready](https://badge.waffle.io/Droidkaigi/droidkaigi.png)](https://waffle.io/DroidKaigi/droidkaigi)
 ==========
 
 本リポジトリは、DroidKaigiに関する有志が集まったリポジトリです。
