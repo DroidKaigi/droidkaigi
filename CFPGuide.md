@@ -1,5 +1,5 @@
-# Call for papers の募集
-Droid Kaigi の Call for Papers を募集します。応募に関してご不明な点がありましたら、DroidKaigi 事務局までご連絡ください。
+# Call for Papers
+Droid Kaigi の演題を募集します。応募に関してご不明な点がありましたら、DroidKaigi 事務局までご連絡ください。
 
 みなさまからのご応募をお待ちしております。
 
