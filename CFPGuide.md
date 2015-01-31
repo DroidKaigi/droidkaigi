@@ -82,7 +82,7 @@ DroidKaigi 事務局
      例：
     - マテリアルデザイン
     - drawables
-    - UCD
+    - User Centered Design (UCD)
   - ハードウェア (Hardware)
 
     Android TV や Android Wear に対応するアプリも増えてきました。また Lollipop で追加された Camera2 API も注目を浴びています。ぜひ Android をめぐるハードウェアに関する話をきかせてください。動画や画像、音声に関する技術もこちらになります。
