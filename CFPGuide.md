@@ -40,7 +40,6 @@ DroidKaigi の演題を募集します。応募に関してご不明な点があ
 DroidKaigi 事務局で選考の上、3 月中旬に結果をお知らせします
 
 ## お問い合わせ
-DroidKaigi 事務局
 [こちら](https://github.com/DroidKaigi/Questions/issues)よりお問い合わせください。
 
 ## 注意事項
