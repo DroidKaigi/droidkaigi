@@ -41,7 +41,7 @@ DroidKaigi 事務局で選考の上、3 月中旬に結果をお知らせしま�
 
 ## お問い合わせ
 DroidKaigi 事務局
-[こちら](http://goo.gl/forms/W9JFjfGM2e)よりお問い合わせください。
+[こちら](https://github.com/DroidKaigi/QA/issues)よりお問い合わせください。
 
 ## 注意事項
 - 撮影された写真は、Webサイトなどで公開される場合があります
